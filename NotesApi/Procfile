@@ -1,1 +1,1 @@
-web: gunicorn NotesApi.wsgi --logo-file -
+web: gunicorn NotesApi.wsgi --log-file -
